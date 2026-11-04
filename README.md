@@ -24,6 +24,11 @@ The objective is to understand how product specifications and a Certificate of A
 - Understand the distinction between out-of-specification (OOS) and out-of-trend (OOT) observations.
 - Formulate a reasoned documentary quality assessment.
 
+### Project Documents
+
+- [View the COA Review Report](./UpStartInterns_Task01_Sucrose_COA_Review.pdf)
+- [View the Original Manufacturer's COA](./Supporting_Documents/Original_Manufacturer_COA.pdf)
+
 ### 3. Product and Batch Details
 
 | Parameter | Details |
