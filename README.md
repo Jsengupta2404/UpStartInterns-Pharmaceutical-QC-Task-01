@@ -26,7 +26,7 @@ The objective is to understand how product specifications and a Certificate of A
 
 ### Project Documents
 
-- [View the COA Review Report](./UpStartInterns_Task01_Sucrose_COA_Review.pdf)
+- [View the COA Review Report](./Sucrose_COA_Review_Report.pdf)
 - [View the Original Manufacturer's COA](./Supporting_Documents/Original_Manufacturer_COA.pdf)
 
 ### 3. Product and Batch Details
